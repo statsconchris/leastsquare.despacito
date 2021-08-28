@@ -1,7 +1,7 @@
 ## leastsquares.despacito
 ### Un código en Python (.ipynb) para predecir el futuro de Despacito considerando una extrapolación lineal y el método de los mínimos cuadrados
 
-Los archivos funcionan Jupyter Notebook. Existen 2 archivos: 
+Los archivos funcionan en Jupyter Notebook. Existen 2 archivos: 
 
 1. leastsquares_full_ES.ipynb : Se desarrolla un código completo con gráficas personalizadas.
 2. leastsquares_simple_ES.ipynb : Se desarrolla un código con gráficas por defecto.
