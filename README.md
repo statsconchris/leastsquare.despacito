@@ -1,7 +1,7 @@
 ## leastsquares.despacito
-### A Python code (.ipynb) to predict the future of Despacito considering linear extrapolation and the method of least squares
+### A Python code (.ipynb) that predicts the future of Despacito considering linear extrapolation and the method of least squares
 
-The files run in Jupyter Notebook. There are 2 files: 
+There are 2 Jupyter Notebook files: 
 
 1. leastsquares_full_EN.ipynb : A code with personalized graphs.
 2. leastsquares_simple_EN.ipynb : A code with default graphs.
