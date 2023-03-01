@@ -1,5 +1,5 @@
 ## The least squares method with Despacito
-We develop the method of least squares using differential calculus. Then we apply it to determine, through linear extrapolation, the date on which Despacito becomes the most viewed video on YouTube. The numerical calculations were done in Python (Jupyter Notebook).
+We develop the least squares method using differential calculus. Then we apply it to determine, through linear extrapolation, the date on which Despacito becomes the most viewed video on YouTube. The numerical calculations were done in Python (Jupyter Notebook).
 <hr>
 
 **Instructions**
