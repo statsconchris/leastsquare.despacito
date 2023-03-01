@@ -6,9 +6,9 @@ The files run in Jupyter Notebook. There are 2 files:
 1. leastsquares_full_EN.ipynb : A code with personalized graphs.
 2. leastsquares_simple_EN.ipynb : A code with default graphs.
 
-An introduction to the analysis given in the code is shown in the article: [nepy.pe/en/extrapolation.despacito.](http://www.nepy.pe/en/education/linear-extrapolation-to-predict-the-future-of-despacito/) 
+An introduction to the analysis given in the code is shown in the article: [nepy.pe/en/extrapolation.despacito.](https://nepy.pe/article.php?pid=623e6788d49a4&lan=en) 
 
-A complete analysis is given in the tutorial: [nepy.pe/en/leastsquares.despacito.](http://www.nepy.pe/en/tutorial/least-squares-method/) 
+A complete analysis is given in the tutorial: [nepy.pe/en/leastsquares.despacito.](https://nepy.pe/article.php?pid=6240c453eae64&lan=en) 
 
-To verify our predictions, go to the article: [nepy.pe/en/integral.despacito.](http://www.nepy.pe/en/education/integral-calculus-to-predict-the-future-of-despacito/) 
+To verify our predictions, go to the article: [nepy.pe/en/integral.despacito.](https://nepy.pe/article.php?pid=623f711af1e14&lan=en) 
 
