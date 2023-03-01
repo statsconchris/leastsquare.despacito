@@ -4,9 +4,7 @@ We develop the method of least squares using differential calculus. Then we appl
 
 **Instructions**
 
-For the teams that qualified to the intercontinental playoffs, we plot the FIFA ranking position vs. time and compute a linear approximation using `Scipy stats.linregress()`.
-
-- Download `least-squares.ipynb` or `least-squares-styled.ipynb` and run. The latter adds some style to the graphs 
+- Download `least-squares.ipynb` or `least-squares-styled.ipynb` and run. The latter adds some style to the graphs. 
 
 
 **Information**
